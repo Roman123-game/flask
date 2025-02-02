@@ -1,6 +1,5 @@
-from website import create_app
+from string_utils import capitalize
+from math_utils import add
 
-app = create_app()
 
-if __name__ == '__main__':
-    app.run(debug=True)
+def add(1,2)
